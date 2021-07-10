@@ -12,3 +12,5 @@ This is IndexedDB "CRUD" demo made with Dexie.js (A Minimalistic Wrapper for Ind
     <li><a href="https://github.com/CodeSeven/toastr" target="_blank">Toastr <sup>(v.2.1.4)</sup></a></li>
   </ol>
 </details>
+
+#### Made With :sparkling_heart: By <a href="https://github.com/gandharthakar">@gandharthakar</a>
